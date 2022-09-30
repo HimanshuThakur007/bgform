@@ -1,0 +1,452 @@
+.acc-ct{
+    background-color: hsl(194, 26%, 73%);
+    width: 100%;
+    height: 100%;
+}
+.head-txt{
+    background-color: #941818;
+    color: #fff;
+}
+
+.row.mt-5.pt-5 {
+    margin-top: 0.9rem!important;
+}
+
+fieldset.border.p-2 {
+    border: 1px solid black!important;
+}
+
+label.dr{
+    margin-inline-end: 41px;
+}
+
+label{
+    color: #3f1533;
+   font-size: 13px;
+}
+.rate{
+    color: #952676;
+
+}
+
+
+.gtsin_btn{
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px gray;
+    font-size: 12px;
+}
+.txt2{
+    color: #952676;
+    font-size: 13px;
+}
+.distance_btn{
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px gray;
+    font-size: 12px;
+    margin-top: 1px;
+    /* float: right; */
+}
+form{
+    margin: 4px;
+}
+.note-btn{
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px gray;
+    font-size: 12px;
+    padding: 5px;
+}
+.Acc-btn{
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px gray;
+    background-color: #ccc;
+    width: 55px;
+    font-size: 10px;
+    margin-top: -0px;
+    position: absolute;
+}
+.top-box{
+    margin-top: 200px;
+}
+.text-other{
+    color: gray;
+   
+}
+.other-lbl-txt{
+    font-size: 12px;
+}
+
+.save-btn{
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px gray; 
+}
+.quit-btn{
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px gray; 
+}
+
+html{
+    background-color:  hsl(194, 26%, 73%);
+}
+.textLink {
+    color: darkcyan;
+}
+
+input::placeholder {
+    color: Black;
+    font-size: 13px;
+  }
+
+  input#country {
+    height: 22px;
+    width: 92px;
+    border: 0px;
+    margin-right: -24px;
+}
+  
+
+input#state {
+    width: 92px;
+    height: 22px;
+    border: 0px;
+    margin-right: -38px;
+}
+
+input#name {
+    margin-right: 2px;
+    float: right;
+    width: 361px;
+    height: 22px;
+    border: 0px;
+}
+
+
+input#opBal {
+    margin-right: -16px;
+    float: right;
+    width: 116px;
+    height: 22px;
+    border: 0px;
+}
+
+input#tin {
+    width: 116px;
+    height: 22px;
+    margin-left: 92px;
+    border:0px;
+}
+input#ward {
+    width: 116px;
+    height: 22px;
+    margin-left: 82px;
+    border:0px;
+}
+
+input#email {
+    width: 356px;
+    height: 22px;
+    border: 0px;
+    margin-left: 81px;
+}
+
+input#tel {
+    width: 107px;
+    height: 22px;
+    margin-left: 75px;
+    border:0px;
+}
+input#contactPerson {
+    width: 107px;
+    height: 22px;
+    margin-left: 30px;
+    border:0px;
+}
+
+input#station {
+    width: 107px;
+    height: 22px;
+    margin-left: 76px;
+    border:0px;
+}
+
+input#dealer {
+    height: 22px;
+    width: 200px;
+    border: 0px;
+    margin-left: 32px;
+}
+input#gstin {
+    height: 22px;
+    width: 107px;
+    margin-left: 55px;
+    border: 0px;
+    
+}
+input#WhatsApp {
+    height: 22px;
+    width: 116px;
+    margin-left: 30px;
+    border: 0px;
+}
+.other_info_box.mb-5.ps-0 {
+    --bs-gutter-x: 0rem;
+}
+.col-5 {
+    --bs-gutter-x: 0;
+}
+.col-2 {
+    --bs-gutter-x: 0;
+}
+label.country {
+    margin-left: 12px;
+}
+
+input#printname {
+    margin-right: 2px;
+    float: right;
+    width: 361px;
+    height: 22px;
+    border: 0px;
+}
+
+textarea#Address {
+    margin-right: 2px;
+    float: right;
+    width: 363px;
+    height: 67px;
+    border: 0px;
+}
+
+label.d-flex.justify-content-end {
+    margin-inline: -14px;
+}
+
+label.stateCode {
+    margin-inline-start: 38px;
+    color: royalblue;
+    font-weight: bold;
+}
+
+legend.float-none.w-auto.p-2 {
+    font-size: 13px;
+    color: royalblue;
+}
+
+input#Dr {
+    margin-right: 2px;
+    float: right;
+    width: 116px;
+    height: 22px;
+    border: 0px;
+}
+
+input#aadhar {
+    width: 107px;
+    height: 22px;
+    margin-left: 53px;
+    border: 0px;
+}
+input#pan {
+    width: 107px;
+    height: 22px;
+    margin-left: 79px;
+    border: 0px;
+}
+
+input#mobile {
+    width: 107px;
+    height: 22px;
+    border: 0px;
+    margin-left: 53px;
+}
+
+label.d-flex.justify-content-center.ps-0.fax {
+    margin-right: 28px;
+}
+
+input#fax {
+    width: 150px;
+    height: 22px;
+    border: 0px;
+}
+
+input#Distance {
+    width: 70px;
+    height: 22px;
+    margin-left: 67px;
+    border:0px;
+}
+
+input#specifyType {
+    width: 31px;
+    height: 22px;
+    margin-left: 0px;
+    border: 0px;
+}
+
+input#specifyType1 {
+    width: 31px;
+    height: 22px;
+    margin-left: 0px;
+    border: 0px;
+}
+input#specifyType2 {
+    width: 31px;
+    height: 22px;
+    margin-left: 0px;
+    border: 0px;
+}
+
+input#defaultType {
+    width: 31px;
+    height: 22px;
+    margin-left: -46px;
+    border: 0px;
+}
+
+input#lst {
+    width: 105px;
+    height: 22px;
+    margin-left: 0px;
+    border: 0px;
+}
+
+input#cst {
+    width: 105px;
+    height: 22px;
+    margin-left: 0px;
+    border: 0px;
+}
+
+input#Bank {
+    width: 368px;
+    height: 22px;
+    border: 0px;
+}
+textarea#extraInfo {
+    width: 190px;
+    height: 37.6rem;
+    border: 0px;
+    overflow: scroll;
+}
+.row.pb-5 {
+    --bs-gutter-x: 0.5rem;
+}
+
+button.ms-2.quit-btn {
+
+        margin-inline-end: 7px;
+        margin-top: auto;
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+button.px-4.save-btn {
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: auto;
+}
+
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px hsl(194, 26%, 73%) inset !important;
+  -webkit-text-fill-color: black !important;
+}
+
+input {
+    color: black;
+    outline: none;
+    text-transform: capitalize;
+    background-color: hsl(194, 26%, 73%);
+    font-size: 12px;
+  }
+  
+  input:focus {
+    background: black;
+  }
+
+.textColor:focus {
+    color: white;
+}
+  
+textarea {
+    color: black;
+    outline: none;
+    background-color: hsl(194, 26%, 73%);
+  }
+  
+  textarea:focus {
+    background: black;
+  }
+
+.textColor:focus {
+    color: white;
+}
+  
+select.form-select {
+    /* width: 361px; */
+    /* height: 22px; */
+    margin-right: 2px;
+    float: right;
+    width: 362px;
+    height: 22px;
+    border: 0px;
+    padding: 0px;
+    border-radius: inherit;
+     background-color: hsl(194, 26%, 73%);
+}
+
+select {
+    color: black;
+    outline: none;
+    text-transform: capitalize;
+    background-color: hsl(194, 26%, 73%);
+  }
+  
+  select:focus {
+    background: black;
+    color: white;
+  }
+
+  .form-select {
+    background-color: #ccc;
+  }
+
+
+  @media screen and (max-width: 480px) {
+    .textColor{
+        max-width: 230px;
+        margin-top: 5px;
+    }
+    .form-select{
+        max-width: 230px;
+        margin-top: 5px;
+    }
+    .option-bal{
+        max-width: 60px;
+        margin-left: -10px;
+        width: 57px;
+    }
+    .address{
+        max-width: 230px;
+        /* margin-left: 5px; */
+    }
+    .country{
+        max-width: 50px;
+        margin-left: 0px;
+
+    }
+    .Aadhar{
+        max-width:200px;
+    }
+  }
+
+  /* button.distance_btn {
+    margin-left: 39px;
+} */
